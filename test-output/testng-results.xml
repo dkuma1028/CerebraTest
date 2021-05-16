@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="9" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="DemoProject" duration-ms="146606" started-at="2021-05-16T16:56:54Z" finished-at="2021-05-16T16:59:20Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="146606" started-at="2021-05-16T16:56:54Z" finished-at="2021-05-16T16:59:20Z">
+      <class name="com.cerebra.test.testScripts.RegressionScripts">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="setUp" is-config="true" duration-ms="15315" started-at="2021-05-16T16:56:54Z" finished-at="2021-05-16T16:57:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://cerebratest.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="1951" started-at="2021-05-16T16:57:09Z" data-provider="getData" finished-at="2021-05-16T16:57:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gurdeepsingh@cerebrahealth.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testsleep3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="9045" started-at="2021-05-16T16:57:11Z" data-provider="getData" finished-at="2021-05-16T16:57:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gurdeep.singh@cerebrahealth.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testsleep1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="1700" started-at="2021-05-16T16:57:20Z" data-provider="getData" finished-at="2021-05-16T16:57:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gsingh@cerebrahealth.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testsleep3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="2450" started-at="2021-05-16T16:57:22Z" data-provider="getData" finished-at="2021-05-16T16:57:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gurdeep.singh@cerebrahealth.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testsleep5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="1872" started-at="2021-05-16T16:57:24Z" data-provider="getData" finished-at="2021-05-16T16:57:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gurdeepsingh@cerebrahealth.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testsleep4]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="1646" started-at="2021-05-16T16:57:26Z" data-provider="getData" finished-at="2021-05-16T16:57:28Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gurdeep.singh@cerebrahealth.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testsleep5]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="validateManageWarehouse()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="validateManageWarehouse" duration-ms="14482" started-at="2021-05-16T16:57:28Z" finished-at="2021-05-16T16:57:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateManageWarehouse -->
+        <test-method status="PASS" signature="verifyForgotPwdFeature()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="verifyForgotPwdFeature" duration-ms="57938" started-at="2021-05-16T16:57:43Z" finished-at="2021-05-16T16:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyForgotPwdFeature -->
+        <test-method status="FAIL" signature="verifyLoginPageLinks()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="verifyLoginPageLinks" duration-ms="39074" started-at="2021-05-16T16:58:40Z" finished-at="2021-05-16T16:59:20Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[There are broken/ un configured links/links for another domain in this site. Here's the list>>[https://cerebra.health/blog, https://www.facebook.com/cerebraofficial, https://twitter.com/cerebraofficial, https://www.linkedin.com/company/25021041/, https://cerebra.health/our-partners, https://cerebra.health/policies, https://michelesleepscoring.com/] expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: There are broken/ un configured links/links for another domain in this site. Here's the list>>[https://cerebra.health/blog, https://www.facebook.com/cerebraofficial, https://twitter.com/cerebraofficial, https://www.linkedin.com/company/25021041/, https://cerebra.health/our-partners, https://cerebra.health/policies, https://michelesleepscoring.com/] expected [true] but found [false]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertTrue(Assert.java:44)
+at com.cerebra.test.pageScript.LoginPage.validateBrokenLink(LoginPage.java:161)
+at com.cerebra.test.testScripts.RegressionScripts.verifyLoginPageLinks(RegressionScripts.java:43)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+at java.lang.reflect.Method.invoke(Unknown Source)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLoginPageLinks -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="tearDown" is-config="true" duration-ms="667" started-at="2021-05-16T16:59:20Z" finished-at="2021-05-16T16:59:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.cerebra.test.testScripts.RegressionScripts -->
+    </test> <!-- Test -->
+  </suite> <!-- DemoProject -->
+</testng-results>
