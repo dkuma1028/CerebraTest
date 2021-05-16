@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="1" ignored="0" total="9" passed="8">
   <reporter-output>
   </reporter-output>
-  <suite name="DemoProject" duration-ms="146606" started-at="2021-05-16T16:56:54Z" finished-at="2021-05-16T16:59:20Z">
+  <suite name="DemoProject" duration-ms="85451" started-at="2021-05-16T18:06:39Z" finished-at="2021-05-16T18:08:04Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="146606" started-at="2021-05-16T16:56:54Z" finished-at="2021-05-16T16:59:20Z">
+    <test name="Test" duration-ms="85451" started-at="2021-05-16T18:06:39Z" finished-at="2021-05-16T18:08:04Z">
       <class name="com.cerebra.test.testScripts.RegressionScripts">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="setUp" is-config="true" duration-ms="15315" started-at="2021-05-16T16:56:54Z" finished-at="2021-05-16T16:57:09Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@7d0587f1]" name="setUp" is-config="true" duration-ms="39850" started-at="2021-05-16T18:06:39Z" finished-at="2021-05-16T18:07:18Z">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="1951" started-at="2021-05-16T16:57:09Z" data-provider="getData" finished-at="2021-05-16T16:57:11Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@7d0587f1]" name="loginTest" duration-ms="1979" started-at="2021-05-16T18:07:19Z" data-provider="getData" finished-at="2021-05-16T18:07:21Z">
           <params>
             <param index="0">
               <value>
@@ -34,7 +34,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="9045" started-at="2021-05-16T16:57:11Z" data-provider="getData" finished-at="2021-05-16T16:57:20Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@7d0587f1]" name="loginTest" duration-ms="9742" started-at="2021-05-16T18:07:21Z" data-provider="getData" finished-at="2021-05-16T18:07:31Z">
           <params>
             <param index="0">
               <value>
@@ -50,7 +50,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="1700" started-at="2021-05-16T16:57:20Z" data-provider="getData" finished-at="2021-05-16T16:57:22Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@7d0587f1]" name="loginTest" duration-ms="3483" started-at="2021-05-16T18:07:31Z" data-provider="getData" finished-at="2021-05-16T18:07:34Z">
           <params>
             <param index="0">
               <value>
@@ -66,7 +66,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="2450" started-at="2021-05-16T16:57:22Z" data-provider="getData" finished-at="2021-05-16T16:57:24Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@7d0587f1]" name="loginTest" duration-ms="2387" started-at="2021-05-16T18:07:34Z" data-provider="getData" finished-at="2021-05-16T18:07:36Z">
           <params>
             <param index="0">
               <value>
@@ -82,7 +82,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="1872" started-at="2021-05-16T16:57:24Z" data-provider="getData" finished-at="2021-05-16T16:57:26Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@7d0587f1]" name="loginTest" duration-ms="1481" started-at="2021-05-16T18:07:36Z" data-provider="getData" finished-at="2021-05-16T18:07:38Z">
           <params>
             <param index="0">
               <value>
@@ -98,7 +98,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="loginTest" duration-ms="1646" started-at="2021-05-16T16:57:26Z" data-provider="getData" finished-at="2021-05-16T16:57:28Z">
+        <test-method status="PASS" signature="loginTest(java.lang.String, java.lang.String)[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@7d0587f1]" name="loginTest" duration-ms="1745" started-at="2021-05-16T18:07:38Z" data-provider="getData" finished-at="2021-05-16T18:07:40Z">
           <params>
             <param index="0">
               <value>
@@ -114,15 +114,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- loginTest -->
-        <test-method status="PASS" signature="validateManageWarehouse()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="validateManageWarehouse" duration-ms="14482" started-at="2021-05-16T16:57:28Z" finished-at="2021-05-16T16:57:43Z">
+        <test-method status="PASS" signature="validateManageWarehouse()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@7d0587f1]" name="validateManageWarehouse" duration-ms="14733" started-at="2021-05-16T18:07:40Z" finished-at="2021-05-16T18:07:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- validateManageWarehouse -->
-        <test-method status="PASS" signature="verifyForgotPwdFeature()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="verifyForgotPwdFeature" duration-ms="57938" started-at="2021-05-16T16:57:43Z" finished-at="2021-05-16T16:58:40Z">
+        <test-method status="PASS" signature="verifyForgotPwdFeature()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@7d0587f1]" name="verifyForgotPwdFeature" duration-ms="3489" started-at="2021-05-16T18:07:54Z" finished-at="2021-05-16T18:07:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyForgotPwdFeature -->
-        <test-method status="FAIL" signature="verifyLoginPageLinks()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="verifyLoginPageLinks" duration-ms="39074" started-at="2021-05-16T16:58:40Z" finished-at="2021-05-16T16:59:20Z">
+        <test-method status="FAIL" signature="verifyLoginPageLinks()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@7d0587f1]" name="verifyLoginPageLinks" duration-ms="5332" started-at="2021-05-16T18:07:58Z" finished-at="2021-05-16T18:08:03Z">
           <exception class="java.lang.AssertionError">
             <message>
               <![CDATA[There are broken/ un configured links/links for another domain in this site. Here's the list>>[https://cerebra.health/blog, https://www.facebook.com/cerebraofficial, https://twitter.com/cerebraofficial, https://www.linkedin.com/company/25021041/, https://cerebra.health/our-partners, https://cerebra.health/policies, https://michelesleepscoring.com/] expected [true] but found [false]]]>
@@ -165,7 +165,7 @@ at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyLoginPageLinks -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@1b7cc17c]" name="tearDown" is-config="true" duration-ms="667" started-at="2021-05-16T16:59:20Z" finished-at="2021-05-16T16:59:20Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.cerebra.test.testScripts.RegressionScripts@7d0587f1]" name="tearDown" is-config="true" duration-ms="691" started-at="2021-05-16T18:08:03Z" finished-at="2021-05-16T18:08:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
